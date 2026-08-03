@@ -6,13 +6,13 @@ Proyecto de análisis de datos centrado en el circuito profesional de **Valorant
 
 # Vista previa del Dashboard
 ## Estadísticas generales
-![Estadísticas Generales](Screenshots/PowerBI/Stats_generales.jpg)
+![Estadísticas Generales](Screenshots/PowerBI/Stats_generales.jpeg)
 
 ## Análisis de mapas
-![Mapas](Screenshots/PowerBI/mapas.jpg)
+![Mapas](Screenshots/PowerBI/mapas.jpeg)
 
 ## Análisis de rondas de pistola
-![Pistolas](Screenshots/PowerBI/pistolas.jpg)
+![Pistolas](Screenshots/PowerBI/pistolas.jpeg)
 
 ---
 
